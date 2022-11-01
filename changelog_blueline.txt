@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Google Pixel 3 (blueline)
+Device maintainer: Matthias (spezi77)
+
+===== 1 November, 2022 =====
+* RC build
+* Fixed incoming call issue
+* Live Volume Steps
+* Hide status bar on lock screen
+* Battery style customization
+* Lockscreen charging
